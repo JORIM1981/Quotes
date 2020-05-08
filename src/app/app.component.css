@@ -1,4 +1,8 @@
-
+body {
+  background-image: url(../assets/img/bg_1.jpg);
+  background-position: center;
+  background-size: cover;
+}
 header{
     text-align: center;
     margin: 30px;
@@ -27,5 +31,6 @@ header{
     margin-bottom: 0;
     font-size: 15px;
     text-align: center;
+    color: white;
   }
   
