@@ -6,6 +6,10 @@
 header{
     text-align: center;
     margin: 30px;
+    color: white;
+    background-image: url(../assets/img/bg_4.jpg);
+    background-position: center;
+    background-size: cover;
     
   
   }
@@ -19,3 +23,11 @@ header{
     letter-spacing: 10px;
     font-weight: bold;
   }
+
+  .footer-text p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    text-align: center;
+  }
+  
