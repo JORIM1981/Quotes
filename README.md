@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 #### 08/05/2020
 #### By **Jorim Midumbi Okong'o Opondo**
 ## Description
-
+![Quotes](https://github.com/JORIM1981/Quotes/blob/master/src/assets/img/Screenshot.png)
 an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
 ## Technologies Used
