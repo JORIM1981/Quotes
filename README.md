@@ -1,7 +1,7 @@
 # Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
-
+[![codebeat badge](https://codebeat.co/badges/1f5da084-c6cc-4097-b1f7-a238c6564c7b)](https://codebeat.co/projects/github-com-jorim1981-quotes-gh-pages)
 #### 08/05/2020
 #### By **Jorim Midumbi Okong'o Opondo**
 ## Description
